@@ -83,7 +83,7 @@ Daily Algorithmic Engineering Notebook 日常算法工程记事本
       
                                             yupeng
                                             余 鹏
-             //108*9块    972块魔方碎片                     
+            //108*9块    972块魔方碎片                     
             //魔方                                           
             // 108块魔方                                      
             
@@ -109,6 +109,17 @@ Daily Algorithmic Engineering Notebook 日常算法工程记事本
             //冗
             //
             
+            //
+            //
+            //
+            //
+            //
+            //
+            //
+            //
+            //
+            //
+            
             　　　｜－－－－－｜
                 　｜        ｜
                   |         |
@@ -131,6 +142,4 @@ Daily Algorithmic Engineering Notebook 日常算法工程记事本
             |     像三棱锥一样     |
             |                     |
             |---------------------|
-            
-            
             
