@@ -7,8 +7,6 @@ Daily Algorithmic Engineering Notebook 日常算法工程记事本
 
 //经济差叠加更没想过...
 
-[!image]http://
-
 
     pc:
     108键(108按钮*黑白)*魔方(27块/解算步骤)*层数*空投最大值最小值系数(2/x<0.5 x=0.5 x>0.5)
