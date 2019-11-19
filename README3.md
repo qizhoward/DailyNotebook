@@ -27,7 +27,7 @@ AB的最终结果不一致                                                    </
 </br>
 </br>
 </br>
-</br>
+最后把searchbox跟settingpage写在一起或者在入口处写在一起方便使用　　　　　</br>
 
 
 search searchbox的定位与3d图形定位相似,这里不说明,这里不多写              </br>
