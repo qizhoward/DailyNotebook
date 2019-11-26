@@ -1,6 +1,12 @@
 # DailyNotebook
 Daily Algorithmic Engineering Notebook 日常算法工程记事本
 
+  Because Chinese prince, Queen Mother, Xi Jinping, Peng Liyuan, 
+  I choose to keep the algorithm secret, and the algorithm is kept secret forever.
+  因为中国皇子,皇妈,习近平,彭丽媛,我选择将算法保密,程序算法永久保密.
+
+  
+
 2019.08.13 19:25PM
 
 //空投魔方键盘我没想过...
